@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APINFRRETIVE", "APINFRRETIVE.csproj", "{1F8BBFC9-59BC-4DDD-887F-0352FBF43243}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APINFRRETIVE.DAL", "APINFRRETIVE.DAL\APINFRRETIVE.DAL.csproj", "{A75B0C9D-DB8C-49DC-AC9E-5BA5E728C9DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1F8BBFC9-59BC-4DDD-887F-0352FBF43243}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F8BBFC9-59BC-4DDD-887F-0352FBF43243}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F8BBFC9-59BC-4DDD-887F-0352FBF43243}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A75B0C9D-DB8C-49DC-AC9E-5BA5E728C9DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A75B0C9D-DB8C-49DC-AC9E-5BA5E728C9DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A75B0C9D-DB8C-49DC-AC9E-5BA5E728C9DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A75B0C9D-DB8C-49DC-AC9E-5BA5E728C9DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
